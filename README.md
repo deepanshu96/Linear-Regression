@@ -1,1 +1,2 @@
-# Linear-Regression
+# Linear-Regression<br>
+Simple linear regression model on salary dataset, implemented in jupyter notebook using sklearn and matplotlib for plotting.
